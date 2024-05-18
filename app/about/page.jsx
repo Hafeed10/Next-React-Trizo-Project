@@ -29,7 +29,6 @@ function About() {
                     Our goal is not only to create designs that look good, but designs that serve a purpose. We examine your brand from every angle. We look at the smallest details, bringing together market insights and business goals, to create a focused solution.
                 </h1>
             </div>
-
             <div className='flex flex-col lg:flex-row  gap-2 py-20 px-5 md:px-0 space-x-3  text-start'>
                 <div className='items-start flex flex-col gap-2.5 content-center shadow-green-100 shadow-lg p-5 hover:shadow-lg rounded-sm '>
                     <h1 className='text-3xl font-bold text-green-900 p-3'>Why Choose Us?</h1>
